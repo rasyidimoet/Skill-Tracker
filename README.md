@@ -11,7 +11,7 @@ Identitas Peserta
 Deskripsi Proyek
 Tuliskan penjelasan singkat tentang proyek yang kamu buat.  
 
-Ini adalah project yang berupa skill-projecct, suatu project yang berisi beberapa target yang akan dicapai oleh user. User dapat mengedit, mengisi progress target, mencari nama target, serta menghapus target yang telah ada
+Suatu project yang berisi beberapa target yang akan dicapai oleh user. User dapat mengedit, mengisi progress target, mencari nama target, serta menghapus target yang telah ada
 ---
 
 Alasan Memilih Tema
